@@ -6,6 +6,8 @@ The owners of a marketing company have data they’ve acquired from their websit
 + Question: How does ad exposure (frequency) affect conversion, and is there saturation?
 + Question: When do users convert most (by day and time)?
 
+Data was provided by a [Kaggle link](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing)
+
 ## Dashboard:
 
 ## Process: 
