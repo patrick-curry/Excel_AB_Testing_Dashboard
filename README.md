@@ -1,4 +1,4 @@
-# Excel_AB_Testing_Dashboard
+# Excel A/B Testing Dashboard
 A marketing dashboard completed in Excel using Pivot Tables and Charts to analyze the data.
 ## Marketing A/B Data Analysis
 The owners of a marketing company have data they’ve acquired from their website to see which if a campaign they ran would be successful. They’ve provided the Marketing A/B Dataset from Kaggle, and we’ve asked to find insights into the data. The A group has been shown ads and the B group have been shown a PSA in place of the ad.
