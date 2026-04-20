@@ -9,12 +9,21 @@ The owners of a marketing company have data they’ve acquired from their websit
 Data was provided by a [Kaggle link](https://www.kaggle.com/datasets/faviovaz/marketing-ab-testing)
 
 ## Dashboard:
+![AB_test_ss.jpg](https://github.com/patrick-curry/Excel_AB_Testing_Dashboard/blob/main/AB_test_ss.jpg)
 
-## Process: 
-- Verify data for missing data and anomalies
-- Convert data to correct data types, formats and values
-- Create Pivot tables and Charts
-- Create Dashboard
+## Process:
+- Data Validation:
+Reviewed the dataset for missing values, inconsistencies, and anomalies to ensure data quality.
+- Data Cleaning and Transformation:
+Standardized data types, corrected formatting issues, and resolved invalid or inconsistent values.
+- Feature Engineering:
+Created calculated fields, including binning continuous variables and converting Boolean values (TRUE/FALSE) into numeric format (0/1) using Excel formulas (e.g., IF statements) to support analysis.
+- Data Analysis:
+Built PivotTables to summarize key metrics and identify trends within the dataset.
+- Data Visualization:
+Developed charts and graphs to effectively communicate insights derived from the data.
+- Dashboard Creation:
+Designed an interactive Excel dashboard to present findings in a clear, user-friendly format.
 
 
 ## Insights:
